@@ -1,7 +1,7 @@
 echo "Kérem adjon meg egy weboldal címet,aminek tudni szeretné az email szerver domain neveit"
 read  bekert
 echo "Szeretnl mentenni egy fájl-ba a email domain neveket ?"
-echo "Kéremn válaszoljon igen vagy nem ?"
+echo "Kérem válaszoljon igen vagy nem ?"
 read  valasztott
 #válasz  elementése egy változóban
 valasz="igen"
