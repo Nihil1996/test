@@ -1,6 +1,6 @@
 # The Starting
 My First Branch. 
-My Frist Code is bash script.
+My First Code is a bash script.
 In the bash script, the questions were written in Hungarian, so the answer must be given in Hungarian
 
 1. Before running the program login as root
