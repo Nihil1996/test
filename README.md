@@ -5,4 +5,5 @@ In the bash script, the questions were written in Hungarian, so the answer must 
 
 1. Run terminal 
 2. Before running the program login as root on the terminal with sudo su
-3. Type into terminal ./mail.sh
+3. Search the program and add authority with chmod +x command
+4. Type into terminal ./mail.sh
